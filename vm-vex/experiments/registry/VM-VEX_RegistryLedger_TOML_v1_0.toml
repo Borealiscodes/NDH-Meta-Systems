@@ -1,0 +1,72 @@
+artifact = "VM-VEX Registry Ledger"
+version = "v1.0"
+domain = "NDH Meta-Systems • VM-VEX Architecture • Science Zone"
+status = "Dormant"
+altitude = "Sealed"
+mode = "Imagination"
+
+[[experiments]]
+experiment_number = 1
+version = "v1.0"
+title = "Black Dwarf Tunneling Imagination"
+epoch = "Consolidation"
+status = "Dormant"
+registry_entry = "VM-VEX_RegistryEntry_Experiment1_v1_0.md"
+notes = "Pre-structured era; first VM-VEX experiment"
+link = "[Experiment 1](ca://s?q=Open_RegistryEntry_Experiment1)"
+
+[[experiments]]
+experiment_number = 2
+version = "v2.0"
+title = "Volume 4 Meta-Systems Machine"
+epoch = "Dreaming"
+status = "Dormant"
+registry_entry = "VM-VEX_RegistryEntry_Experiment2_v2_0.md"
+notes = "Pre-structured era; non-linear imagination"
+link = "[Experiment 2](ca://s?q=Open_RegistryEntry_Experiment2)"
+
+[[experiments]]
+experiment_number = 3
+version = "v3.0"
+title = "State Machine v2.2 Governance Spine"
+epoch = "Dreaming"
+status = "Dormant"
+registry_entry = "VM-VEX_RegistryEntry_Experiment3_v3_0.md"
+notes = "First fully structured VM-VEX experiment"
+link = "[Experiment 3](ca://s?q=Open_RegistryEntry_Experiment3)"
+
+[provenance]
+non_activation_clause = "This ledger is descriptive-only. It does not activate, simulate, or numerically integrate any VM-VEX node behavior or constitutional physics. All nodes remain dormant and altitude-sealed."
+maintainer = "Borealis S. Hedling"
+location = "Naaldwijk, South Holland, Netherlands"
+timestamp = "24 August 2026 — 18:32 IST"
+
+[[provenance.anchors]]
+id = "VM-VEX RegistryLedger_v1_0.md"
+
+[[provenance.anchors]]
+id = "VM-VEX RegistryLedger_JSON_v1_0.json"
+
+[[provenance.anchors]]
+id = "VM-VEX RegistryLedger_YAML_v1_0.yaml"
+
+[[provenance.anchors]]
+id = "VM-VEX SerializationRelationshipDiagram_v1_0.md"
+
+[[provenance.anchors]]
+id = "VM-VEX SerializationRelationshipCaseStudy_v1_0.md"
+
+[[provenance.anchors]]
+id = "VM-VEX RegistryIndexOverview_v1_0.md"
+
+[[provenance.anchors]]
+id = "VM-VEX_RegistryEntry_Experiment1_v1_0.md"
+
+[[provenance.anchors]]
+id = "VM-VEX_RegistryEntry_Experiment2_v2_0.md"
+
+[[provenance.anchors]]
+id = "VM-VEX_RegistryEntry_Experiment3_v3_0.md"
+
+[[provenance.anchors]]
+id = "Hybrid Provenance Footer Standard v1.0"
