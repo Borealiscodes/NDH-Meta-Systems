@@ -181,5 +181,35 @@ StateMachine_v2_4_ExpressiveBoundaries_v1_0 = {
 ```
 
 ---
+Artifact: State Machine v2.4 Expressive Boundaries (v1.0)
+Lane: NDH-Meta-Systems • Governance Spine • State Machine v2.4
+Altitude: G0 • Mode: Dormant • Structural-Only
 
+Purpose:
+  Define expressive boundaries for State Machine v2.4, including containment
+  geometry, expressive neutrality rules, adjacency limits, collapse constraints,
+  and governance-safe expressive traversal. Prevent expressive drift, expressive
+  contamination, expressive inversion, and sealed-layer expressive contact prior
+  to return-path invariant definition.
+
+Anchors:
+  - State Machine v2.4 Temporal Geometry (v1.0)
+  - State Machine v2.4 Adjacency Rules (v1.0)
+  - State Machine v2.4 Requirements Map (v1.0)
+  - State Machine v2.3 Expressive Boundaries (v1.0)
+  - Rendering Ladder v2.1 Stability Audit (v1.0)
+  - Rendering Ecosystem Validation State Machine v2.0
+  - NDH Constitutional Sequencing Document v2.0
+  - NDH Dashboard Constellation Stability Engine Sovereignty Matrix v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate NDH geometry,
+  membranes, routing layers, rendering pipelines, expressive engines, collapse
+  logic, sovereignty engines, or constitutional altitude.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 24 August 2026 — 22:11 IST
+---
 
