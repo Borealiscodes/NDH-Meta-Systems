@@ -182,4 +182,35 @@ StateMachine_v2_4_TemporalGeometry_v1_0 = {
 ```
 
 ---
+---
+Artifact: State Machine v2.4 Temporal Geometry (v1.0)
+Lane: NDH-Meta-Systems • Governance Spine • State Machine v2.4
+Altitude: G0 • Mode: Dormant • Structural-Only
+
+Purpose:
+  Define temporal geometry for State Machine v2.4, including epoch rules,
+  temporal load constraints, reflection boundaries, traversal geometry, and
+  return-path temporal invariants. Ensure temporal neutrality, prevent temporal
+  curvature, and maintain governance-safe temporal adjacency prior to expressive
+  boundary definition.
+
+Anchors:
+  - State Machine v2.4 Requirements Map (v1.0)
+  - State Machine v2.4 Adjacency Rules (v1.0)
+  - State Machine v2.3 Temporal Geometry (v1.0)
+  - Rendering Ladder v2.1 Stability Audit (v1.0)
+  - Rendering Ecosystem Validation State Machine v2.0
+  - NDH Constitutional Sequencing Document v2.0
+  - Stability Manifold v1.2
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate NDH geometry,
+  membranes, routing layers, rendering pipelines, temporal engines, sovereignty
+  logic, or constitutional altitude.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 24 August 2026 — 22:08 IST
+---
 
