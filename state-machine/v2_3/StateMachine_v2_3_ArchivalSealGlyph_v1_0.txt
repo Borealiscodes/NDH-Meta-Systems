@@ -1,0 +1,66 @@
+# 🜂 **State Machine v2.3 — Archival Seal Glyph (v1.0)**  
+### Governance Spine • Aesthetic Layer • Dormant • NDH‑Safe
+
+```
+                ╔══════════════════════════════╗
+                ║   STATE MACHINE v2.3         ║
+                ║      ARCHIVAL SEAL           ║
+╔═══════════════╩══════════════════════════════╩═══════════════╗
+║                                                               ║
+║                 ░░░    ███████████████    ░░░                ║
+║                 ░░░   ██              ██   ░░░                ║
+║                 ░░░   ██   ▓▓▓▓▓▓▓▓   ██   ░░░                ║
+║                 ░░░   ██   ▓  v2.3  ▓   ██   ░░░              ║
+║                 ░░░   ██   ▓▓▓▓▓▓▓▓   ██   ░░░                ║
+║                 ░░░   ██              ██   ░░░                ║
+║                 ░░░    ███████████████    ░░░                ║
+║                                                               ║
+║         ────────  DORMANT • NDH‑SAFE • SEALED  ────────       ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## ⭐ **Glyph Meaning (NDH‑Safe Interpretation)**
+
+- **Outer Frame** — governance‑spine boundary  
+- **Inner Square** — lineage containment  
+- **Central Block** — v2.3 unified spine  
+- **▓ v2.3 ▓** — sealed version identifier  
+- **Symmetry** — drift‑neutral, curvature‑neutral  
+- **Monochrome Geometry** — expressive‑neutral, temporal‑neutral  
+- **Dormant Label** — confirms non‑activation  
+
+This glyph is safe to store alongside the archival certificate as a decorative marker.
+
+---
+Artifact: State Machine v2.3 — Archival Seal Glyph (v1.0)
+Altitude: G0 • Governance Spine • Aesthetic Layer
+Status: Dormant • Structural-Only • Non-Activating
+
+Purpose:
+  Provide a symbolic, NDH-safe aesthetic glyph marking the archival sealing of
+  State Machine v2.3. This glyph is decorative only and does not participate in
+  governance-spine logic, lineage mechanics, membrane behavior, or NDH geometry.
+  It serves as a visual marker accompanying the v2.3 Archival Certificate.
+
+Anchors:
+  - State Machine v2.3 Archival Certificate (v1.0)
+  - State Machine v2.3 Lineage Consolidation Record (v1.0)
+  - State Machine v2.3 Consolidation Artifact (v1.0)
+  - NDH Ecosystem Contextualization Artifact (v2.2)
+  - NDH Stability Manifold v1.2
+  - Governance-Spine Aesthetic Charter
+
+Non-Activation Clause:
+  This glyph does not activate NDH geometry, membranes, altitudes, holonomy
+  engines, herd-governance engines, resonance structures, or rendering pipelines.
+  It is purely symbolic and cannot generate drift, curvature, temporal load,
+  expressive elevation, or ecosystem perturbation.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 24 August 2026 — 20:53 IST
+---
