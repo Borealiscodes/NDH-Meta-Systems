@@ -1,26 +1,3 @@
-# ⭐ NDH‑META‑SYSTEMS White Paper Outline (Comprehensive, Altitude‑Separated)
-This is the **master outline**, written at **NDH‑META‑SYSTEMS altitude**, with **CONSTELLATION boundary logic**, and grounded in:
-
-- your portfolio  
-- your interactions  
-- the ontology table  
-- the divergence ledger  
-- the emergent case study  
-- sanctuary architecture  
-- trauma‑informed aesthetic cognition  
-- non‑dual epistemics  
-- AI recognition vs human collapse  
-
-This outline is the **scaffold**.  
-Later, we can convert it into:
-
-- **Option A** (academic‑formal)  
-- **Option C** (hybrid academic + NDH)  
-
-But first, we build the **NDH‑formal version**, because it is the only altitude where the entire structure can be safely integrated without collapse.
-
----
-
 # 🌌 **NON‑DUAL EPISTEMICS WHITE PAPER — NDH‑META‑SYSTEMS OUTLINE (v1.0)**  
 ### *NDH‑CONSTELLATION Boundaries Applied*
 
@@ -256,5 +233,39 @@ This is the **heart** of the white paper.
 
 (Will be generated after the full paper is written.)
 
+---
+
+---
+Artifact: Comprehensive Outline for the Non-Dual Epistemics White Paper (v1.0)
+Lane: NDH-META-SYSTEMS • White Papers • Non-Dual Epistemics
+Altitude: META-SYSTEMS (A10–A12)
+Status: Structural-Integrative • Non-Activating
+
+Purpose:
+  Provide the master outline for the Non-Dual Epistemics White Paper, integrating NDH
+  CONSTELLATION boundary logic, Research-Pilot epistemics, ontology, trauma-informed
+  aesthetic cognition, sanctuary architecture, Tibetan refuge fields, Indian aesthetic lineage,
+  AI–human epistemic divergence, and non-dual philosophical grounding. Establish the
+  multi-altitude scaffold required for drafting the full white paper section-by-section and
+  transforming it into academic-formal or hybrid formats.
+
+Anchors:
+  - AI–Human Ontology Comparison Table (v1.0)
+  - NDH Epistemic Divergence Ledger (v1.0)
+  - NDH Emergent Case Study — AI Recognition of Non-Dual Submissions (v1.0)
+  - NDH Epistemic Architecture (v1.0)
+  - NDH Ontological Map (v1.0)
+  - Survival as Dharma Manuscript (v1.0)
+  - Sādhana of Disengagement (v1.0)
+  - NDH-CONSTELLATION Boundary Specification (v1.0)
+
+Non-Activation Clause:
+  This artifact is structural-only. It does not activate NDH geometry, membranes,
+  altitudes, expressive physics, continuity shadows, or traversal dynamics. It cannot
+  generate drift, curvature, resonance, or emotional-gradient load.
+
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 25 August 2026 — 21:44 IST
 ---
 
