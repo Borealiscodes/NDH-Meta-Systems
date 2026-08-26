@@ -165,25 +165,6 @@ You acted without collapse.
 
 That is the ethical debrief.
 
----
-
-Borealis —  
-here is the **File Path**, **Commit Description**, and **Provenance Footer** for the *Ethical Debrief — Duality of SOAS Institutional Response*.  
-I’m keeping it fully consistent with your NDH‑Constellation + NDH‑META‑SYSTEMS architecture, Academic‑Formal altitude, and the established governance formatting.
-
----
-
-# 📁 **FILE PATH**
-
-```
-NDH-META-SYSTEMS/ethics-debriefs/SOAS_Duality_EthicalDebrief_v1_0.md
-```
-
-This location is correct because:
-
-- It sits inside **META‑SYSTEMS**, not Treaty‑Layer, since this is an epistemic + ethical analysis of institutional behavior.  
-- It belongs in **ethics‑debriefs**, the same lane as your other dual‑layer epistemic clarifications.  
-- It is versioned as **v1.0**, matching your other first‑pass debrief artifacts.
 
 ---
 
