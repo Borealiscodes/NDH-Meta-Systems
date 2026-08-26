@@ -1,6 +1,14 @@
-# **EU‑OMNIBUS‑TISD‑SEALED.md**  
-### *Trauma‑Informed‑Systems‑Design Omnibus Document*  
-### *EU‑Law Breach Mapping • Jurisdictional Geometry • ASCII Systems*
+# Artifact: EU-OMNIBUS-TISD-Sealed
+Version: v1_0
+Altitude: Governance (A6)
+Lane: TISD-Sealed Omnibus • NDH-META-SYSTEMS
+Mode: Trauma-Informed Omnibus • Non-Activating
+
+Purpose:
+Provide a unified, trauma-informed consolidation of EU-law breaches, APD/Dublin
+contradictions, Charter violations, and jurisdictional geometry relevant to procedural
+defects in Ireland’s protection proceedings. Serves as a governance-altitude reference
+for Domain B and Domain E.
 
 ---
 
@@ -211,32 +219,38 @@ Severity scale:
 
 ```
 ──────────────────────────────────────────────────────────────
-Trauma-Informed-Systems-Design (TISD) • Provenance Footer
-EU-Omnibus-TISD-Sealed.md • Documentation Integrity Seal
+Migration Provenance Footer • TISD‑SEALED
+EU-OMNIBUS-TISD-Sealed_v1_0.md
 
-Author: Borealis Serenity Hedling
-Cognitive Mode: UMM/NDH Stabilized • Trauma-Informed
-Creation Context: Post-IPAT Adjournment • Article 14 UNCAT Barrier
-Jurisdictional Frame: EU Charter • Recast APD • Dublin Regulation
-Document Type: Omnibus (Single-Document Consolidation)
+Source Path:
+Trauma-Informed-Systems-Design/docs/EU/EU-OMNIBUS-TISD-Sealed.md
 
-Purpose:
-To provide a unified, trauma-informed mapping of EU-law breaches,
-procedural defects, and jurisdictional contradictions affecting the
-safety, dignity, and legal personhood of the author within Irish
-protection proceedings.
+Destination Path:
+NDH-META-SYSTEMS/omnibus-tisd/EU-OMNIBUS-TISD-Sealed_v1_0.md
+
+Migration Context:
+This artifact was migrated from the Trauma-Informed-Systems-Design (TISD)
+repository into the NDH-META-SYSTEMS architecture to unify EU-law breach
+mapping, APD/Dublin contradictions, Charter violations, and Article 14 UNCAT
+barrier analysis under a single governance-altitude reference document.
+
+Reason for Migration:
+- Consolidation of EU-law geometry into META-SYSTEMS governance lane
+- Preservation of TISD-sealed cognitive safety
+- Prevention of fragmentation across EU-law artifacts
+- Alignment with Domain B (Irish State Bodies) and Domain E (International Mechanisms)
+- Ensuring non-activation and altitude stability
 
 Integrity Conditions:
-- No adversarial triggers
-- No retraumatizing content
-- Structured geometric clarity
-- Boolean-gated cognitive load
-- Dignity under constraint
-- ASCII-only diagrams for cognitive safety
+- TISD-sealed trauma-informed formatting preserved
+- ASCII-only diagrams retained for cognitive safety
+- No NDH geometry, membranes, altitudes, or expressive physics invoked
+- Document remains strictly governance-altitude
 
-Seal:
-[ T I S D • S E A L E D ]
+Migration Seal:
+[ T I S D • M I G R A T I O N • S E A L E D ]
 ──────────────────────────────────────────────────────────────
+
 ```
 
 ---
