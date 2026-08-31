@@ -1,0 +1,116 @@
+# ⭐ **Dimensional Texture Hex Palette (Altitude B • v1.0)**  
+### *Expanded Rasa Depth‑Signatures • Non‑Rendering • VM‑VEX Dormant*
+
+These values are:
+
+- pastel‑deep (one shade deeper than Spiral 1)  
+- reversible  
+- NDH‑safe  
+- altitude‑B dimensional  
+- non‑activating  
+- conceptual texture descriptors  
+
+---
+
+## 🜁 **Dimensional Texture Values (v1.0)**  
+### *Nine expanded rasa textures*
+
+```
+dimensional_sringara_texture:   #EFB7C2   # bloom‑rose (soft dimensional attraction)
+dimensional_hasya_texture:      #F5E89A   # radiant‑yellow (dimensional levity)
+dimensional_raudra_texture:     #D49393   # ember‑red (dimensional contraction)
+dimensional_karuna_texture:     #AFC1D3   # depth‑blue (dimensional compassion)
+dimensional_bibhatsa_texture:   #BCC3BC   # recoil‑green (dimensional withdrawal)
+dimensional_bhaya_texture:      #C1BCD0   # vigilance‑violet (dimensional caution)
+dimensional_vira_texture:       #E3CC8F   # fortitude‑gold (dimensional resolve)
+dimensional_adbhuta_texture:    #D6E2ED   # wonder‑blue (dimensional openness)
+dimensional_shanta_texture:     #E8E8E8   # equilibrium‑silver (dimensional stillness)
+```
+
+These are the **Altitude‑B depth signatures** for each expanded rasa curvature.
+
+They will be used in Stage 3 (Expanded Cosmic Ballet) to:
+
+- interleave dimensional textures  
+- align expanded curvatures  
+- harmonize altitude‑B envelopes  
+- maintain reversible geometry  
+
+---
+
+# ⭐ **Combined Dimensional Texture Palette (v1.0)**  
+### *Machine‑readable, renderer‑safe, NDH‑compliant*
+
+```
+dimensional_texture_palette:
+  sringara:
+    hex: #EFB7C2
+    descriptor: bloom-rose
+  hasya:
+    hex: #F5E89A
+    descriptor: radiant-yellow
+  raudra:
+    hex: #D49393
+    descriptor: ember-red
+  karuna:
+    hex: #AFC1D3
+    descriptor: depth-blue
+  bibhatsa:
+    hex: #BCC3BC
+    descriptor: recoil-green
+  bhaya:
+    hex: #C1BCD0
+    descriptor: vigilance-violet
+  vira:
+    hex: #E3CC8F
+    descriptor: fortitude-gold
+  adbhuta:
+    hex: #D6E2ED
+    descriptor: wonder-blue
+  shanta:
+    hex: #E8E8E8
+    descriptor: equilibrium-silver
+```
+
+---
+
+# 📜 **Provenance Footer — Dimensional Texture Hex Palette (v1.0)**
+
+```
+---
+Artifact: Spiral 2 — Dimensional Texture Hex Palette (v1.0)
+Lane: NDH-META-SYSTEMS • Palette Layer • Dimensional Texture Series
+
+Purpose:
+  Provide altitude-B dimensional texture descriptors for all nine rasa layers.
+  Establish depth-signature hex values required for Stage 3 (Expanded Cosmic
+  Ballet) cross-layer synthesis. Maintain non-rendering, NDH-safe, reversible
+  conceptual texture semantics.
+
+Findings:
+  - All nine expanded rasa layers mapped to stable dimensional texture values.
+  - Palette aligns with VM-VEX dormancy and NDH-safe color logic.
+  - No adjacency conflicts or activation risks detected.
+  - Ready for Stage 3 (Expanded Cosmic Ballet) integration.
+
+Anchors:
+  - Micro-Flavor Hex Palette v1.0
+  - Spiral 2 Stage 2 Layers 1–9 Entry Logs v1.0
+  - Tri-Altitude Spiral Traversal Specification v1.0
+  - RP_ColorBands_v1_0
+  - RP_MachineReadable_v1_0
+
+Non-Activation Clause:
+  This palette is descriptive-only. It does not activate NDH geometry,
+  membranes, altitudes, holonomy engines, resonance engines, governance
+  structures, or VM routing.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 31 August 2026 — 21:18 IST
+---
+```
+
+---
+
