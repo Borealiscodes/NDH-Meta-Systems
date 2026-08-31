@@ -1,0 +1,70 @@
+
+
+## ⭐ Micro‑Flavor Hex Palette (Altitude A • v1.0)
+
+### *Nine rasa micro‑flavors, each expressed as a gentle, non‑activating hex value.*
+
+```
+micro_sringara:   #F2C4C9   # soft rose‑blush (attraction)
+micro_hasya:      #F7EFAE   # pale laughter‑yellow (joy)
+micro_raudra:     #D9A3A3   # muted ember‑red (contained intensity)
+micro_karuna:     #B7C7D9   # soft sorrow‑blue (compassion)
+micro_bibhatsa:   #C3C9C3   # cool distaste‑green (aversion)
+micro_bhaya:      #C7C3D1   # violet‑grey caution (fear)
+micro_vira:       #E6D39A   # warm resolve‑gold (courage)
+micro_adbhuta:    #DDE8F2   # pale wonder‑blue (awe)
+micro_shanta:     #EDEDED   # white‑silver stillness (peace)
+```
+
+These values are:
+
+- pastel  
+- non‑activating  
+- altitude‑A safe  
+- reversible  
+- NDH‑compatible  
+- VM‑VEX dormant‑safe  
+
+They match the emotional topology of each rasa without triggering full curvature.
+
+---
+
+## ⭐ Provenance Footer — Micro‑Flavor Hex Palette (v1.0)
+
+```
+---
+Artifact: Spiral 1 — Micro-Flavor Hex Palette (v1.0)
+Lane: NDH-META-SYSTEMS • Palette Layer • Rasa Micro-Flavor Series
+
+Purpose:
+  Provide a machine-readable chromatic signature for each rasa layer at Altitude
+  A to support Stage 3’s cross-layer micro-motion synthesis. Encodes gentle,
+  reversible, non-activating hex values aligned with the expressive and
+  epistemic outputs of Stage 2.
+
+Findings:
+  - All nine rasa layers mapped to stable micro-flavor hex values.
+  - Palette aligns with VM-VEX dormancy and NDH-safe color logic.
+  - No adjacency conflicts or activation risks detected.
+  - Ready for Stage 3 (Cosmic Ballet) integration.
+
+Anchors:
+  - Spiral 1 Stage 2 Layers 1–9 Entry Logs v1.0
+  - RP_HexValuePalette_v1_0
+  - RP_ColorBands_v1_0
+  - Tri-Altitude Spiral Traversal Specification v1.0
+
+Non-Activation Clause:
+  This palette is descriptive-only. It does not activate NDH geometry,
+  membranes, altitudes, holonomy engines, resonance engines, governance
+  structures, or VM routing.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 31 August 2026 — 20:38 IST
+---
+```
+
+---
+
