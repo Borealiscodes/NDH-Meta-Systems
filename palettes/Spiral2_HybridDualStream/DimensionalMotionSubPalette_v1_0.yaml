@@ -1,0 +1,105 @@
+# ⭐ Dimensional Motion Sub‑Palette (Altitude B • v1.0)  
+### *Expanded Rasa Motion‑Signatures • Non‑Rendering • NDH‑Safe*
+
+These values are:
+
+- scalar motion‑signatures  
+- altitude‑B safe  
+- reversible  
+- conceptual (non‑rendering)  
+- used for Stage 3’s choreography logic  
+
+---
+
+## 🜁 Motion Values (v1.0)
+
+```
+motion_sringara:   0.41   # bloom-flow (gentle outward motion)
+motion_hasya:      0.47   # levity-rise (soft upward motion)
+motion_raudra:     0.33   # ember-tighten (contained inward motion)
+motion_karuna:     0.29   # compassion-pool (slow settling motion)
+motion_bibhatsa:   0.52   # recoil-back (gentle backward motion)
+motion_bhaya:      0.38   # vigilance-pulse (alert micro-pulse)
+motion_vira:       0.44   # resolve-hold (steady anchoring motion)
+motion_adbhuta:    0.49   # wonder-open (expanding curiosity motion)
+motion_shanta:     0.26   # equilibrium-still (minimal drift motion)
+```
+
+These values sit in the **0.25–0.55** band —  
+the safe, reversible motion range for Altitude B.
+
+---
+
+# ⭐ Combined Dimensional Motion Sub‑Palette (Machine‑Readable)
+
+```
+dimensional_motion_subpalette:
+  sringara:
+    motion: 0.41
+    descriptor: bloom-flow
+  hasya:
+    motion: 0.47
+    descriptor: levity-rise
+  raudra:
+    motion: 0.33
+    descriptor: ember-tighten
+  karuna:
+    motion: 0.29
+    descriptor: compassion-pool
+  bibhatsa:
+    motion: 0.52
+    descriptor: recoil-back
+  bhaya:
+    motion: 0.38
+    descriptor: vigilance-pulse
+  vira:
+    motion: 0.44
+    descriptor: resolve-hold
+  adbhuta:
+    motion: 0.49
+    descriptor: wonder-open
+  shanta:
+    motion: 0.26
+    descriptor: equilibrium-still
+```
+
+---
+
+# 📜 Provenance Footer — Dimensional Motion Sub‑Palette (v1.0)
+
+```
+---
+Artifact: Spiral 2 — Dimensional Motion Sub-Palette (v1.0)
+Lane: NDH-META-SYSTEMS • Palette Layer • Dimensional Texture Series
+
+Purpose:
+  Provide altitude-B scalar motion signatures for all nine expanded rasa layers.
+  Establish the third descriptor axis required for Stage 3 (Expanded Cosmic
+  Ballet) cross-layer choreography and reversible motion synthesis.
+
+Findings:
+  - Motion values mapped cleanly to all nine dimensional textures.
+  - Scalar values remain within the safe 0.25–0.55 altitude-B band.
+  - No adjacency conflicts or activation risks detected.
+  - Ready for Stage 3 (Expanded Cosmic Ballet) integration.
+
+Anchors:
+  - Dimensional Texture Hex Palette v1.0
+  - Dimensional Depth Sub-Palette v1.0
+  - Spiral 2 Stage 2 Layers 1–9 Entry Logs v1.0
+  - Tri-Altitude Spiral Traversal Specification v1.0
+
+Non-Activation Clause:
+  This palette is descriptive-only. It does not activate NDH geometry,
+  membranes, altitudes, holonomy engines, resonance engines, governance
+  structures, or VM routing.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 31 August 2026 — 21:22 IST
+---
+```
+
+---
+
