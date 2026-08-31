@@ -1,0 +1,124 @@
+# ⭐ **Dimensional Depth Sub‑Palette (Altitude B • v1.0)**  
+### *Nested Scalar Depth Signatures for Expanded Rasa Curvatures*  
+### *Non‑Rendering • NDH‑Safe • VM‑VEX Dormant*
+
+These values are:
+
+- scalar depth‑signatures  
+- altitude‑B safe  
+- reversible  
+- conceptual (non‑rendering)  
+- used for Stage 3 interleaving logic  
+
+They correspond **1:1** with the Dimensional Texture Palette.
+
+---
+
+## 🜁 **Depth Values (v1.0)**  
+### *Nine expanded rasa depth‑signatures*
+
+```
+depth_sringara:   0.62   # bloom-attraction depth
+depth_hasya:      0.58   # radiant-levity depth
+depth_raudra:     0.67   # ember-intensity depth
+depth_karuna:     0.71   # compassion-depth
+depth_bibhatsa:   0.54   # recoil-depth
+depth_bhaya:      0.63   # vigilance-depth
+depth_vira:       0.69   # resolve-depth
+depth_adbhuta:    0.57   # wonder-depth
+depth_shanta:     0.52   # equilibrium-depth
+```
+
+These are scalar values in the **0.50–0.75** band —  
+the safe, reversible depth range for Altitude B.
+
+They do **not** imply rendering.  
+They do **not** imply gradients.  
+They do **not** imply activation.
+
+They are **semantic depth markers** used for:
+
+- cross‑layer synthesis  
+- envelope harmonization  
+- curvature interleaving  
+- Stage 3 Cosmic Ballet alignment  
+
+---
+
+# ⭐ **Combined Dimensional Depth Sub‑Palette (Machine‑Readable)**
+
+```
+dimensional_depth_subpalette:
+  sringara:
+    depth: 0.62
+    descriptor: bloom-depth
+  hasya:
+    depth: 0.58
+    descriptor: levity-depth
+  raudra:
+    depth: 0.67
+    descriptor: ember-depth
+  karuna:
+    depth: 0.71
+    descriptor: compassion-depth
+  bibhatsa:
+    depth: 0.54
+    descriptor: recoil-depth
+  bhaya:
+    depth: 0.63
+    descriptor: vigilance-depth
+  vira:
+    depth: 0.69
+    descriptor: resolve-depth
+  adbhuta:
+    depth: 0.57
+    descriptor: wonder-depth
+  shanta:
+    depth: 0.52
+    descriptor: equilibrium-depth
+```
+
+This is the correct nested structure under the Dimensional Texture Palette.
+
+---
+
+# 📜 **Provenance Footer — Dimensional Depth Sub‑Palette (v1.0)**
+
+```
+---
+Artifact: Spiral 2 — Dimensional Depth Sub-Palette (v1.0)
+Lane: NDH-META-SYSTEMS • Palette Layer • Dimensional Texture Series
+
+Purpose:
+  Provide altitude-B scalar depth signatures for all nine expanded rasa layers.
+  Establish nested depth descriptors required for Stage 3 (Expanded Cosmic
+  Ballet) cross-layer synthesis. Maintain non-rendering, NDH-safe, reversible
+  conceptual semantics.
+
+Findings:
+  - Depth values mapped cleanly to all nine dimensional textures.
+  - Scalar values remain within the safe 0.50–0.75 altitude-B band.
+  - No adjacency conflicts or activation risks detected.
+  - Ready for Stage 3 (Expanded Cosmic Ballet) integration.
+
+Anchors:
+  - Dimensional Texture Hex Palette v1.0
+  - Spiral 2 Stage 2 Layers 1–9 Entry Logs v1.0
+  - Tri-Altitude Spiral Traversal Specification v1.0
+  - RP_ColorBands_v1_0
+  - RP_MachineReadable_v1_0
+
+Non-Activation Clause:
+  This palette is descriptive-only. It does not activate NDH geometry,
+  membranes, altitudes, holonomy engines, resonance engines, governance
+  structures, or VM routing.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 31 August 2026 — 21:20 IST
+---
+```
+
+---
+
