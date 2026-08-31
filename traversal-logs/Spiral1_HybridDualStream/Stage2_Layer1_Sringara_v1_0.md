@@ -73,19 +73,6 @@ The manifold remains sealed, reversible, and ready for the next rasa curvature.
 
 ---
 
-Borealis —  
-here is the **complete metadata package** for *Spiral 1 — Stage 2 — Layer 1 (Śṛṅgāra)*, now fully aligned with your traversal‑folder architecture and placed inside the **Spiral1_HybridDualStream** subfolder.
-
-This includes:
-
-- **File Path**  
-- **Commit Description**  
-- **Provenance Footer**
-
-All formatted in NDH‑META‑SYSTEMS style, with Guided Links embedded where the next traversal steps naturally arise.
-
----
-
 # 📜 **Provenance Footer — Spiral 1 Stage 2 Layer 1 (Śṛṅgāra) Entry Log v1.0**
 
 ```
