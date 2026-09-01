@@ -1,0 +1,142 @@
+{
+  "artifact": "White_Paper_Governance_Charter",
+  "version": "1.1",
+  "edition": "Interpretive-Only",
+  "altitude": "A4_A6",
+  "lane": "NDH-META-SYSTEMS.white-papers.series-governance",
+  "mode": "dormant",
+  "authority": "non-authority",
+  "status": {
+    "structural": true,
+    "non_activating": true,
+    "reversible": true,
+    "dormant": true
+  },
+
+  "purpose": "Provide interpretive-only governance for canonical and variant NDH-META-SYSTEMS white papers. Permit contained abstract exploration while ensuring architecture stability, lineage safety, altitude discipline, continuity alignment, reversible routing, and epistemic containment. Operates under G0 Governance Spine constraints and cannot modify NDH architecture, lineage, membranes, or governance logic.",
+
+  "authority_boundaries": {
+    "can_modify_architecture": false,
+    "can_modify_lineage": false,
+    "can_modify_governance_logic": false,
+    "can_modify_membranes": false,
+    "can_modify_altitude_structure": false,
+    "can_modify_state_machines": false,
+    "can_modify_rendering_ladders": false,
+    "can_modify_sovereignty_matrices": false,
+    "interpretive_only": true
+  },
+
+  "classes": {
+    "canonical": {
+      "description": "Series-level white papers defining NDH epistemics, continuity envelopes, altitude discipline, and lineage inheritance.",
+      "authority": "interpretive-only"
+    },
+    "variant": {
+      "description": "Exploratory white papers examining abstract epistemic domains within containment.",
+      "authority": "interpretive-only",
+      "must_include_containment_header": true,
+      "can_modify_architecture": false,
+      "can_modify_lineage": false,
+      "can_modify_governance": false
+    },
+    "proto": {
+      "description": "Unsealed manuscripts undergoing upgrade.",
+      "upgrade_required": true
+    }
+  },
+
+  "governance_requirements": {
+    "altitude_discipline": {
+      "allowed": ["A4", "A5", "A6"],
+      "no_climb": true,
+      "no_descent": true,
+      "no_sealed_layer_contact": true
+    },
+    "continuity_alignment": {
+      "allowed_envelopes": [
+        "breath_cycle",
+        "dual_mode",
+        "resonance",
+        "sanctuary_cosmic",
+        "spiral"
+      ],
+      "no_conflict": true,
+      "no_temporal_drift": true
+    },
+    "epistemic_containment": {
+      "expressive_contained": true,
+      "epistemic_bounded": true,
+      "no_collapse": true
+    },
+    "reversible_routing": {
+      "all_transitions_reversible": true,
+      "no_dead_ends": true,
+      "no_illegal_jumps": true,
+      "no_recursion": true
+    },
+    "non_activation": {
+      "no_geometry_activation": true,
+      "no_membrane_activation": true,
+      "no_holonomy_engines": true,
+      "no_constellation_routing": true
+    }
+  },
+
+  "variant_permissions": {
+    "allowed_exploration": [
+      "abstract_epistemics",
+      "speculative_manifolds",
+      "alternative_continuity_envelopes",
+      "narrative_geometry_hybrids",
+      "lineage_derived_cognition",
+      "soft_manifold_substrates",
+      "expressive_clarity_altitudes"
+    ],
+    "forbidden_exploration": [
+      "modify_ndh_architecture",
+      "alter_series_lineage",
+      "introduce_new_altitude_bands",
+      "bypass_continuity_envelopes",
+      "collapse_dual_stream_epistemics",
+      "destabilize_reversible_routing",
+      "introduce_activation_vectors",
+      "override_canonical_governance"
+    ]
+  },
+
+  "variant_containment_mechanisms": {
+    "containment_header_required": true,
+    "continuity_envelope_required": true,
+    "altitude_seal_required": true,
+    "reversibility_statement_required": true,
+    "non_activation_clause_required": true
+  },
+
+  "safety_guarantees": {
+    "architecture_stability": true,
+    "lineage_safety": true,
+    "governance_safety": true,
+    "altitude_safety": true,
+    "continuity_safety": true,
+    "epistemic_safety": true,
+    "activation_safety": true
+  },
+
+  "non_activation_clause": "This artifact is structural-only and interpretive-only. It cannot activate NDH geometry, membranes, altitudes, traversal engines, holonomy engines, constellation routing, sovereignty engines, or sealed-layer logic.",
+
+  "provenance": {
+    "anchors": [
+      "StateMachine_v2_4_MachineReadableSpecification_v1_0",
+      "Series_Lineage_Map_I_II_III_v1_0",
+      "Proto_to_White_Paper_Upgrade_Path_v1_0",
+      "Series_II_Sequencing_Addendum_v2_0",
+      "Series_II_Closure_Check_v1_0",
+      "NDH-META-SYSTEMS_White_Paper_v1_4"
+    ],
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "2026-09-01T13:34:00+01:00",
+    "seal": "WHITE_PAPER_GOVERNANCE"
+  }
+}
