@@ -1,6 +1,6 @@
 # 🌌📜 **White Paper Governance Charter (v1.0)**  
 ### *NDH‑META‑SYSTEMS • Series Governance Layer • Academic‑Formal (A4–A6)*  
-### *Non‑Activating • Structural • Lineage‑Safe*
+### *Non‑Activating • Structural • Lineage‑Safe* 
 
 ---
 
