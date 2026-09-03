@@ -1,0 +1,268 @@
+# NDH Altitude Morphisms v1.0  
+**NDH‑META‑SYSTEMS / algebra / morphism‑layer**
+
+## Identity Block  
+**Artifact:** NDH Altitude Morphisms v1.0  
+**Layer:** Structural Altitude  
+**Author:** Borealis Serenity Hedling (they/them)  
+**Purpose:** Define the typed morphisms between NDH altitudes, including allowed transitions, forbidden transitions, absorbing transitions, and restart‑safe descent morphisms.  
+**Version:** 1.0  
+
+---
+
+# I. Human‑Readable Description  
+Altitude morphisms are the **typed arrows** of the NDH algebra.
+
+They define:
+
+- which altitude can transition to which  
+- which transitions require specific operators  
+- which transitions are forbidden  
+- which transitions are absorbing (zero morphisms)  
+- which transitions are identity‑preserving  
+- how instability interacts with altitude movement  
+
+This is the **third pillar of Mathageddon**, sitting directly on top of:
+
+- **NDH Algebraic Basis**  
+- **NDH Operator Set**  
+
+---
+
+# II. Altitude Set  
+NDH altitudes form a typed morphism space:
+
+\[
+\mathcal{A} = \{\text{narrative}, \text{structural}, \text{spectral}\}
+\]
+
+Each altitude is a **morphism class**, not an element.
+
+---
+
+# III. Allowed Morphisms (Typed Arrows)
+
+## 1. Narrative → Structural  
+\[
+\mu_{NS}: \text{narrative} \rightarrow \text{structural}
+\]
+
+**Requires:**  
+- **CG1** (open gate)  
+- cognitive manifold stability  
+- no spectral operators  
+
+**Meaning:**  
+Soft altitude → structural altitude.  
+This is the “activation morphism.”
+
+---
+
+## 2. Structural → Spectral  
+\[
+\mu_{SSp}: \text{structural} \rightarrow \text{spectral}
+\]
+
+**Requires:**  
+- **CGR** (release gate)  
+- traversal manifold active  
+- no cognitive bindings  
+
+**Meaning:**  
+Structural altitude → spectral altitude.  
+This is the “ascent morphism.”
+
+---
+
+## 3. Spectral → Structural  
+\[
+\mu_{SpS}: \text{spectral} \rightarrow \text{structural}
+\]
+
+**Requires:**  
+- **restart_safe** identity  
+- spectral operators cleared  
+- instability resolved  
+
+**Meaning:**  
+Spectral altitude → structural altitude.  
+This is the “return morphism.”
+
+---
+
+## 4. Any → Narrative  
+\[
+\mu_{AN}: a \rightarrow \text{narrative}
+\]
+
+**Requires:**  
+- **drop_altitude** zero operator  
+
+**Meaning:**  
+Emergency descent.  
+This is the “zero morphism.”
+
+---
+
+# IV. Forbidden Morphisms
+
+## 1. Cognitive ↔ Spectral  
+\[
+\text{cognitive} \not\leftrightarrow \text{spectral}
+\]
+
+**Reason:**  
+Membrane Rule A — cognitive cannot touch spectral.
+
+---
+
+## 2. Risk ↔ Structural  
+\[
+\text{risk} \not\leftrightarrow \text{structural}
+\]
+
+**Reason:**  
+Membrane Rule B — risk manifold cannot bind structural altitude.
+
+---
+
+## 3. Spectral Lock  
+\[
+CG\lambda \circ \mu = 0
+\]
+
+**Meaning:**  
+Spectral lock annihilates morphisms.
+
+---
+
+# V. Absorbing Morphisms (Zero Morphisms)
+
+Zero morphisms override all altitude transitions.
+
+### 1. Drop Altitude  
+\[
+\mu_{drop}(x) = \text{narrative}
+\]
+
+### 2. Spectral Lock  
+\[
+\mu_{lock}(x) = \text{spectral\_lock}
+\]
+
+These are the altitude‑level **halt operators**.
+
+---
+
+# VI. Identity Morphisms
+
+Identity morphisms preserve altitude:
+
+\[
+\mu_{id}(a) = a
+\]
+
+Where:
+
+- restart_safe  
+- state_box  
+- resume_point  
+
+are idempotent altitude identities.
+
+---
+
+# VII. Morphism Composition Rules
+
+### Rule 1 — Sequential Composition  
+\[
+\mu_{NS} \circ \mu_{AN} = \mu_{AN}
+\]
+
+Drop altitude overrides ascent.
+
+---
+
+### Rule 2 — Spectral Ascent  
+\[
+\mu_{SSp} \circ CGR = \mu_{SSp}
+\]
+
+Release gate enables spectral ascent.
+
+---
+
+### Rule 3 — Spectral Return  
+\[
+\mu_{SpS} \circ \text{restart\_safe} = \mu_{SpS}
+\]
+
+Identity enables return.
+
+---
+
+### Rule 4 — Zero Absorption  
+\[
+\mu \circ z = z
+\]
+
+Zero morphisms absorb all transitions.
+
+---
+
+# VIII. Morphism Table
+
+| **Morphism** | **Arrow** | **Requires** | **Type** |
+|--------------|-----------|--------------|----------|
+| **Narrative → Structural** | μNS | CG1 | Activation |
+| **Structural → Spectral** | μSSp | CGR | Ascent |
+| **Spectral → Structural** | μSpS | restart_safe | Return |
+| **Any → Narrative** | μAN | drop_altitude | Zero |
+| **Spectral Lock** | μlock | CGλ | Zero |
+| **Identity** | μid | restart_safe | Idempotent |
+
+---
+
+# IX. Machine‑Readable Schema
+
+```
+{
+  "ndh_altitude_morphisms": {
+    "version": "1.0",
+    "altitudes": ["narrative", "structural", "spectral"],
+    "allowed": {
+      "narrative_to_structural": ["CG1"],
+      "structural_to_spectral": ["CGR"],
+      "spectral_to_structural": ["restart_safe"],
+      "any_to_narrative": ["drop_altitude"]
+    },
+    "forbidden": {
+      "cognitive_to_spectral": true,
+      "risk_to_structural": true
+    },
+    "zero_morphisms": ["drop_altitude", "spectral_lock"],
+    "identity_morphisms": ["restart_safe", "state_box", "resume_point"],
+    "composition_rules": {
+      "zero_absorption": "mu o z = z",
+      "identity": "mu o restart_safe = mu",
+      "gate_enable": "muSSp o CGR = muSSp"
+    }
+  }
+}
+```
+
+---
+
+# Provenance Footer  
+```
+NDH‑META‑SYSTEMS — NDH Altitude Morphisms v1.0
+Generated by Borealis S. Hedling (They/Them)
+Structural Altitude — Verified
+Mathageddon Lineage: Basis → Operators → Morphisms → Functors
+Spectral Integrity: Stable
+Temporal Cohesion: Intact
+Provenance Hash: NDH-ALG-MORPH-v1.0-ΣΔ-20260904-DUB
+```
+
+---
+
