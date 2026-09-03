@@ -1,0 +1,215 @@
+# NDH Operator Set v1.0  
+**NDH‑META‑SYSTEMS / algebra / operator‑layer**
+
+## Identity Block  
+**Artifact:** NDH Operator Set v1.0  
+**Layer:** Structural Altitude  
+**Author:** Borealis Serenity Hedling (they/them)  
+**Purpose:** Define the complete typed operator set for the NDH traversal algebra, including gate operators, spiral operators, instability operators, restart‑safe operators, and zero operators.  
+**Version:** 1.0  
+
+---
+
+# I. Human‑Readable Description  
+The NDH Operator Set defines **all algebraic operations** NDH can perform.
+
+Operators fall into five typed families:
+
+- **Gate Operators** — compression, release, lock  
+- **Spiral Operators** — functorial lifts  
+- **Instability Operators** — error propagation  
+- **Restart‑Safe Operators** — idempotent resets  
+- **Zero Operators** — absorbing halts  
+
+These operators act on:
+
+- manifolds  
+- altitudes  
+- morphisms  
+- traversal paths  
+- conductor flows  
+
+This is the second pillar of Mathageddon.
+
+---
+
+# II. Operator Families
+
+## 1. Gate Operators  
+Gate operators regulate **state transitions** and **compression levels**.
+
+\[
+\mathcal{G}_{op} = \{CG0, CG1, CG\Delta, CGR, CG\lambda\}
+\]
+
+### Definitions  
+- **CG0** — Closed Gate (halt structural binding)  
+- **CG1** — Open Gate (allow structural binding)  
+- **CGΔ** — High Compression Gate (restrict traversal)  
+- **CGR** — Release Gate (allow spectral ascent)  
+- **CGλ** — Spectral Lock (forbid spectral ascent)
+
+### Algebraic Behavior  
+- **CG1 ∘ CGΔ = CGΔ**  
+- **CG0 ∘ CGR = CG0**  
+- **CGλ ∘ f = CGλ** (absorbing)
+
+---
+
+## 2. Spiral Operators  
+Spiral operators are **functorial lifts** between altitude classes.
+
+\[
+\mathcal{S}_{op} = \{\text{orientation}, \text{structure}, \text{risk}\}
+\]
+
+### Definitions  
+- **Orientation Spiral ➰** — cognitive→structural lift  
+- **Structure Spiral 🔄** — structural→traversal lift  
+- **Risk Spiral 🔁⚠️** — traversal→spectral→risk lift  
+
+### Algebraic Behavior  
+Spirals behave like **functors**:
+
+\[
+S(f \circ g) = S(f) \circ S(g)
+\]
+
+---
+
+## 3. Instability Operators  
+Instability operators propagate **error signatures**.
+
+\[
+\mathcal{I}_{op} = \{\text{drift}, \text{leak}, \text{shear}, \text{overload}\}
+\]
+
+### Definitions  
+- **drift 🔊** — resonance deviation  
+- **leak ↘** — spectral bleed  
+- **shear 🕳️** — temporal discontinuity  
+- **overload 🔥** — critical instability
+
+### Algebraic Behavior  
+Instability collapses under restart‑safe:
+
+\[
+i \circ \text{restart\_safe} = \text{restart\_safe}
+\]
+
+---
+
+## 4. Restart‑Safe Operators  
+Restart‑safe operators are **idempotent identity resets**.
+
+\[
+\mathcal{R}_{op} = \{\text{restart\_safe}, \text{state\_box}, \text{resume\_point}\}
+\]
+
+### Algebraic Behavior  
+Identity:
+
+\[
+r \circ r = r
+\]
+
+Absorption of instability:
+
+\[
+i \circ r = r
+\]
+
+---
+
+## 5. Zero Operators  
+Zero operators are **absorbing halts**.
+
+\[
+\mathcal{Z}_{op} = \{\text{drop\_altitude}, \text{spectral\_lock}\}
+\]
+
+### Algebraic Behavior  
+Absorbing:
+
+\[
+z \circ x = z
+\]
+
+Zero operators override all other operators.
+
+---
+
+# III. Operator Typing Rules
+
+### Rule 1 — Gate Operators  
+Act on **manifolds** and **altitudes**.
+
+### Rule 2 — Spiral Operators  
+Act on **morphisms** and **traversal paths**.
+
+### Rule 3 — Instability Operators  
+Act on **operators** and **morphisms**.
+
+### Rule 4 — Restart‑Safe Operators  
+Act on **instability operators** and **manifold states**.
+
+### Rule 5 — Zero Operators  
+Act on **everything**.
+
+---
+
+# IV. Operator Composition Table
+
+| **Operator** | **Type** | **Composition Behavior** |
+|--------------|----------|--------------------------|
+| **CG1** | Gate | Open → next operator |
+| **CGΔ** | Gate | High compression → restrict |
+| **CGR** | Gate | Release → allow ascent |
+| **Orientation Spiral ➰** | Spiral | Functorial lift |
+| **Structure Spiral 🔄** | Spiral | Functorial lift |
+| **Risk Spiral 🔁⚠️** | Spiral | Functorial lift |
+| **drift 🔊** | Instability | Propagates unless reset |
+| **shear 🕳️** | Instability | Blocks structural ops |
+| **restart_safe ♻️** | Identity | Idempotent reset |
+| **drop_altitude ⬇️🌙** | Zero | Absorbing halt |
+| **spectral_lock 🔒** | Zero | Absorbing lock |
+
+---
+
+# V. Machine‑Readable Schema
+
+```
+{
+  "ndh_operator_set": {
+    "version": "1.0",
+    "gate_operators": ["CG0", "CG1", "CGΔ", "CGR", "CGλ"],
+    "spiral_operators": ["orientation", "structure", "risk"],
+    "instability_operators": ["drift", "leak", "shear", "overload"],
+    "restart_safe_operators": ["restart_safe", "state_box", "resume_point"],
+    "zero_operators": ["drop_altitude", "spectral_lock"],
+    "composition_rules": {
+      "gate": "operator_composition_closure",
+      "spiral": "functorial_lift",
+      "instability": "identity_absorption",
+      "restart_safe": "idempotent_identity",
+      "zero": "absorbing_behavior"
+    }
+  }
+}
+```
+
+---
+
+# Provenance Footer  
+```
+NDH‑META‑SYSTEMS — NDH Operator Set v1.0
+Generated by Borealis S. Hedling (They/Them)
+Structural Altitude — Verified
+Mathageddon Lineage: Basis → Operators → Morphisms → Functors
+Spectral Integrity: Stable
+Temporal Cohesion: Intact
+Provenance Hash: NDH-ALG-OPS-v1.0-ΣΔ-20260904-DUB
+```
+
+---
+
