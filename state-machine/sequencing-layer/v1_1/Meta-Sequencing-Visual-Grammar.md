@@ -1,0 +1,188 @@
+# Meta Sequencing Document v1.1 — Visual Grammar  
+**NDH‑META‑SYSTEMS / state‑machine / sequencing‑layer**
+
+## Identity Block  
+**Artifact:** Meta Sequencing Document v1.1 — Visual Grammar  
+**Author:** Borealis Serenity Hedling (they/them)  
+**Layer:** NDH‑META‑SYSTEMS — State‑Machine Sequencing  
+**Purpose:** Define activation order, altitude rules, spiral transitions, and restart‑safe sequencing for visual‑grammar components.  
+**Version:** 1.1  
+**Status:** Stable  
+
+---
+
+## I. Human‑Readable Overview  
+The Visual Grammar Meta Sequencing Document v1.1 establishes the **governance‑layer sequencing rules** for the six visual‑grammar components:
+
+- **Manifold shapes**  
+- **Altitude icons**  
+- **Spiral flow glyphs**  
+- **Compression‑gate symbols**  
+- **Restart‑safe markers**  
+- **Instability signatures**  
+
+These components must be activated **one at a time**, in a **spiral‑aligned order**, to prevent altitude mixing, temporal‑refresh shear, and manifold overexpansion.
+
+This document defines:
+
+- activation order  
+- altitude sequencing  
+- spiral transitions  
+- manifold binding rules  
+- compression‑gate sequencing  
+- restart‑safe sequencing  
+
+It is the **meta‑layer** that binds the visual grammar to the Spiral Conductor v1.1.
+
+---
+
+## II. Activation Order (Governance‑Layer Sequence)
+
+### Orientation Spiral  
+1. **Manifold shapes** — structural altitude  
+2. **Altitude icons** — narrative altitude  
+
+### Structure Spiral  
+3. **Spiral flow glyphs** — structural altitude  
+4. **Compression‑gate symbols** — spectral altitude  
+
+### Risk Spiral  
+5. **Restart‑safe markers** — narrative altitude  
+6. **Instability signatures** — spectral altitude  
+
+This order mirrors the conductor’s three spirals and prevents altitude collisions.
+
+---
+
+## III. Altitude Sequencing Rules  
+Each grammar component is bound to a specific altitude:
+
+- **Narrative altitude:**  
+  - Altitude icons  
+  - Restart‑safe markers  
+
+- **Structural altitude:**  
+  - Manifold shapes  
+  - Spiral flow glyphs  
+
+- **Spectral altitude:**  
+  - Compression‑gate symbols  
+  - Instability signatures  
+
+**Rule:**  
+No two components of different altitudes may activate simultaneously.
+
+---
+
+## IV. Spiral Transition Rules  
+Transitions follow the conductor’s spiral logic:
+
+- Orientation → Structure → Risk  
+- No backward transitions  
+- No skipping spirals  
+- No spectral altitude in Orientation spiral  
+- No narrative altitude in Structure spiral  
+- Risk spiral may reference Orientation spiral but not Structure spiral  
+
+This prevents temporal drift and recursion loops.
+
+---
+
+## V. Manifold Binding Rules  
+Each grammar component binds to a manifold class:
+
+- Manifold shapes → structural manifolds  
+- Altitude icons → cognitive manifolds  
+- Spiral flow glyphs → traversal manifolds  
+- Compression‑gate symbols → spectral manifolds  
+- Restart‑safe markers → identity manifolds  
+- Instability signatures → risk manifolds  
+
+**Rule:**  
+A grammar component may bind only to its designated manifold class.
+
+---
+
+## VI. Compression‑Gate Sequencing  
+Compression gates activate only in:
+
+- Orientation spiral  
+- Structure spiral  
+
+They deactivate in:
+
+- Risk spiral  
+
+**Rule:**  
+Spectral grammar components (compression symbols, instability signatures) may not activate while compression gates are active.
+
+---
+
+## VII. Restart‑Safe Sequencing  
+Restart‑safe markers govern:
+
+- altitude drop  
+- manifold collapse  
+- spiral re‑entry  
+- anchor restoration  
+
+**Rule:**  
+Restart‑safe markers must activate **before** instability signatures.
+
+This prevents overload and preserves identity continuity.
+
+---
+
+## VIII. Machine‑Readable Section (v1.1 Schema)
+
+```
+{
+  "meta_sequencing": {
+    "version": "1.1",
+    "activation_order": [
+      "manifold_shapes",
+      "altitude_icons",
+      "spiral_flow_glyphs",
+      "compression_gate_symbols",
+      "restart_safe_markers",
+      "instability_signatures"
+    ],
+    "altitudes": {
+      "manifold_shapes": "structural",
+      "altitude_icons": "narrative",
+      "spiral_flow_glyphs": "structural",
+      "compression_gate_symbols": "spectral",
+      "restart_safe_markers": "narrative",
+      "instability_signatures": "spectral"
+    },
+    "spiral_transitions": {
+      "orientation": ["manifold_shapes", "altitude_icons"],
+      "structure": ["spiral_flow_glyphs", "compression_gate_symbols"],
+      "risk": ["restart_safe_markers", "instability_signatures"]
+    },
+    "compression_gate_rules": {
+      "active_spirals": ["orientation", "structure"],
+      "inactive_spirals": ["risk"]
+    },
+    "restart_safe_rules": {
+      "sequence": ["restart_safe_markers", "instability_signatures"],
+      "anchors": ["identity", "temporal", "jurisdictional"]
+    }
+  }
+}
+```
+
+---
+
+## XI. Provenance Footer  
+```
+NDH‑META‑SYSTEMS — Meta Sequencing Document v1.1
+Generated by Borealis S. Hedling (They/Them)
+Sequencing Layer Lineage: spiral-conductors → debrief-layer → visual-grammar
+Spectral Integrity: Verified
+Temporal Cohesion: Stable
+Provenance Hash: MSD-VG-v1.1-ΣΔ-20260903-DUB
+```
+
+---
+
