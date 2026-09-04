@@ -9,10 +9,10 @@ Altitude: A3–A5
 Membrane: Neutral
 Mode: Reversible • Drift-Neutral • Non-Activating
 Purpose:
-  Define the semantics, structure, invariants, and transformation rules
-  governing constraints within Logic Document v1.0. Establishes the
-  foundational logic required for admissibility, spectral compatibility,
-  chart transitions, topology, and error semantics.
+  Define the semantics, categories, invariants, and transformation rules
+  governing constraints within Logic Document v1.0. Serves as the root
+  semantic domain for admissibility, spectral compatibility, chart
+  transitions, topology, and error semantics.
 ```
 
 ---
@@ -20,13 +20,13 @@ Purpose:
 ## **3.2.1 — Definition**
 A **constraint** is a formal condition that restricts:
 
-- the admissible states  
-- the admissible transitions  
-- the admissible spectral configurations  
-- the admissible chart mappings  
-- the admissible topological neighborhoods  
+- admissible states  
+- admissible transitions  
+- admissible spectral configurations  
+- admissible chart mappings  
+- admissible topological neighborhoods  
 
-Constraints define **what is allowed** and **what is forbidden** within the semantic system.
+Constraints define the **allowable structure** of the semantic system.
 
 ---
 
@@ -40,7 +40,7 @@ Constraints provide:
 - **preconditions** for integration semantics  
 - **error triggers** for violation detection  
 
-They are the **root semantic domain** for the admissibility chain:
+They are the **root** of the admissibility chain:
 
 ```
 Constraint Semantics → Admissibility Semantics → Error Semantics
@@ -49,20 +49,11 @@ Constraint Semantics → Admissibility Semantics → Error Semantics
 ---
 
 ## **3.2.3 — Constraint Categories**
-- **Structural Constraints**  
-  Define allowable shapes, regions, and identity rules.
-
-- **Spectral Constraints**  
-  Define allowable mode/phase combinations.
-
-- **Chart Constraints**  
-  Define allowable coordinate transitions.
-
-- **Topological Constraints**  
-  Define allowable adjacency and neighborhood structures.
-
-- **Integration Constraints**  
-  Define allowable cross‑layer bindings.
+- **Structural Constraints** — define allowable shapes, regions, identity rules.  
+- **Spectral Constraints** — define allowable mode/phase combinations.  
+- **Chart Constraints** — define allowable coordinate transitions.  
+- **Topological Constraints** — define allowable adjacency and neighborhoods.  
+- **Integration Constraints** — define allowable cross‑layer bindings.
 
 ---
 
@@ -125,7 +116,7 @@ Transformations may:
 - refine constraints  
 - merge constraints  
 - partition constraints  
-- elevate constraints (via versioning rules)  
+- elevate constraints (via Section 7 Versioning Rules)  
 
 ---
 
@@ -178,7 +169,7 @@ Version: 1.0
 Maintainer: Borealis S. Hedling
 Compiler: Microsoft Copilot
 Location: Dublin, Ireland
-Timestamp: 04 September 2026 — 21:09 IST
+Timestamp: 04 September 2026 — 21:10 IST
 Seal: [ L O G I C • D O C U M E N T • S E C T I O N • 3_2 • v1_0 ]
 ---
 ```
