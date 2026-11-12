@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0.0",
+  "index_id": "ahso-constellation-lineage-audit-index",
+  "series_number": 2,
+  "surface": "NDH-META-SYSTEMS/audits/constellation-lineage",
+  "audit_timestamp_utc": "2026-11-12T05:26:00Z",
+  "governance": {
+    "charter": "Author Sovereignty & Collaboration Ecosystem Charter v1.1",
+    "posture": "Non-Accusatory • Constructive • Architectural",
+    "membrane": "Neutral • Non-Activating • Forensic-Audit",
+    "non_activation_clause": "All indexed audit artifacts and synthesis documents are descriptive and forensic-only. They do not activate NDH geometry, holonomy engines, constellation routing, lineage engines, or governance altitude."
+  },
+  "maintainer": {
+    "name": "Borealis S. Hedling",
+    "location": "Dublin, Ireland"
+  },
+  "canonical_anchors": [
+    {
+      "type": "zenodo_preprint",
+      "title": "Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance: A Case Study in Open-Source Systems Rigor, Charity Law Complexity, and Grassroots Solidarity",
+      "doi": "10.5281/zenodo.24149283",
+      "url": "https://doi.org"
+    },
+    {
+      "type": "upstream_audit_series",
+      "index_id": "ahso-series-foundation-audit-index",
+      "surface": "NDH-META-SYSTEMS/audits/series-foundation"
+    }
+  ],
+  "master_synthesis": {
+    "audit_file": "master-constellation-lineage-and-sovereignty-synthesis.md",
+    "version": "v1.0",
+    "altitude": "A6–A8",
+    "scope": "Cross-audit synthesis and mathematical, computational, and cryptographic sovereignty hardening recommendations",
+    "seal": "[ A H S O • L I N E A G E • M A S T E R ]"
+  },
+  "audits": [
+    {
+      "audit_order": 1,
+      "audit_file": "audit-sovereign-library-ontology-lineage.md",
+      "target_artifacts": [
+        "8b-is/sovereign-library/ONTOLOGY.md"
+      ],
+      "upstream_references": [
+        "Borealiscodes/Constitutional-Organism-Constructor",
+        "Borealiscodes/Rainbows-Prismatic-Layer-v1.0",
+        "Borealiscodes/NDH-Meta-Systems/ahso/series-foundation"
+      ],
+      "altitude": "A6–A7",
+      "focus": "Upstream primitive manifestation across 8b-is balanced-ternary baseline and removal of Non-Activation Clause",
+      "seal": "[ A H S O • L I N E A G E • A U D I T • 0 1 ]"
+    },
+    {
+      "audit_order": 2,
+      "audit_file": "audit-constitutional-organism-vs-unbound-mode.md",
+      "target_artifacts": [
+        "Borealiscodes/Constitutional-Organism-Constructor/README.md"
+      ],
+      "comparative_references": [
+        "8b-is/sovereign-library/ONTOLOGY.md#41-the-alexqmom-unbound-mode-axiom"
+      ],
+      "altitude": "A6–A7",
+      "focus": "Structural refutation of 'rigid box' characterization via consent-gated dormancy, mutable user grammar, and Licensing Deferral",
+      "seal": "[ A H S O • L I N E A G E • A U D I T • 0 2 ]"
+    },
+    {
+      "audit_order": 3,
+      "audit_file": "audit-standardgalactic-absorption-pipeline.md",
+      "target_artifacts": [
+        "://github.com",
+        "8b-is/8b-is/raw_research/standardgalactic-wire-absorbed.md",
+        "8b-is/sovereign-library/ONTOLOGY.md"
+      ],
+      "altitude": "A6–A7",
+      "focus": "Two-stage conceptual ingestion and MCP runtime-binding pipeline flattening upstream safety membranes",
+      "seal": "[ A H S O • L I N E A G E • A U D I T • 0 3 ]"
+    }
+  ]
+}
