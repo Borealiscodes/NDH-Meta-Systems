@@ -3,7 +3,7 @@
 **Surface:** `NDH-META-SYSTEMS/audits/constellation-lineage`  
 **Governance Posture:** Non-Accusatory • Constructive • Architectural (`Author Sovereignty Charter v1.1`)  
 **Canonical Anchor:** [Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance](https://doi.org) (`DOI: 10.5281/zenodo.24149283`)  
-**Upstream Series Reference:** `NDH-META-SYSTEMS/audits/series-foundation` (Series 1)
+**Upstream Series Reference:** `NDH-META-SYSTEMS/ahso/series-audit' (Series 1)
 
 ---
 
