@@ -3,12 +3,17 @@
   "index_id": "ahso-constellation-lineage-audit-index",
   "series_number": 2,
   "surface": "NDH-META-SYSTEMS/audits/constellation-lineage",
-  "audit_timestamp_utc": "2026-11-12T05:26:00Z",
+  "audit_timestamp_utc": "2026-11-12T07:46:00Z",
+  "cryptographic_anchor": {
+    "hash_algorithm": "SHA-256",
+    "signature_scheme": "Ed25519",
+    "public_key_fingerprint": "SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg"
+  },
   "governance": {
     "charter": "Author Sovereignty & Collaboration Ecosystem Charter v1.1",
     "posture": "Non-Accusatory • Constructive • Architectural",
     "membrane": "Neutral • Non-Activating • Forensic-Audit",
-    "non_activation_clause": "All indexed audit artifacts and synthesis documents are descriptive and forensic-only. They do not activate NDH geometry, holonomy engines, constellation routing, lineage engines, or governance altitude."
+    "non_activation_clause": "All indexed audit artifacts, synthesis documents, and structural debriefs are descriptive and forensic-only. They do not activate NDH geometry, holonomy engines, constellation routing, lineage engines, or governance altitude."
   },
   "maintainer": {
     "name": "Borealis S. Hedling",
@@ -74,6 +79,17 @@
       "altitude": "A6–A7",
       "focus": "Two-stage conceptual ingestion and MCP runtime-binding pipeline flattening upstream safety membranes",
       "seal": "[ A H S O • L I N E A G E • A U D I T • 0 3 ]"
+    },
+    {
+      "audit_order": 4,
+      "audit_file": "debrief-constitutional-organism-cryptographic-upgrade.md",
+      "target_artifacts": [
+        "Borealiscodes/Constitutional-Organism-Constructor/README.md",
+        "Borealiscodes/Constitutional-Organism-Constructor/sovereignty.jsonld"
+      ],
+      "altitude": "A6–A8",
+      "focus": "Five-boundary structural debrief of YAML sovereignty frontmatter, W3C ODRL JSON-LD policies, SHA-256 manifest chaining, and Ed25519 commit signing",
+      "seal": "[ A H S O • L I N E A G E • D E B R I E F • 0 1 ]"
     }
   ]
 }
