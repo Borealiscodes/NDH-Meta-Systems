@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0.0",
+  "index_id": "ahso-series-foundation-audit-index",
+  "surface": "NDH-META-SYSTEMS/audits/series-foundation",
+  "target_surface": "NDH-Meta-Systems/ahso/series-foundation",
+  "series_publication_date": "2026-09-16",
+  "audit_timestamp_utc": "2026-11-12T04:14:00Z",
+  "governance": {
+    "charter": "Author Sovereignty & Collaboration Ecosystem Charter v1.1",
+    "posture": "Non-Accusatory • Constructive • Altitude-Differentiated",
+    "membrane": "Neutral • Non-Activating • Forensic-Audit",
+    "non_activation_clause": "All indexed audit artifacts and source tiles are descriptive-only. They do not activate NDH geometry, holonomy engines, constellation routing, lineage engines, or governance altitude."
+  },
+  "maintainer": {
+    "name": "Borealis S. Hedling",
+    "location": "Dublin, Ireland"
+  },
+  "canonical_anchors": [
+    {
+      "type": "zenodo_preprint",
+      "title": "Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance: A Case Study in Open-Source Systems Rigor, Charity Law Complexity, and Grassroots Solidarity",
+      "doi": "10.5281/zenodo.24149283",
+      "url": "https://doi.org"
+    }
+  ],
+  "master_synthesis": {
+    "audit_file": "master-audit-series-foundation-synthesis.md",
+    "version": "v1.0",
+    "altitude": "A6–A7",
+    "seal": "[ A H S O • S E R I E S • A U D I T • M A S T E R ]"
+  },
+  "artifacts": [
+    {
+      "audit_order": 1,
+      "chronological_order": 2,
+      "audit_file": "audit-artifact-1-vedic-to-ndh-mapping.md",
+      "target_file": "vedic-to-ndh-mapping-v1_0.md",
+      "target_commit": "a170430",
+      "source_timestamp_ist": "2026-09-16T17:40:00+05:30",
+      "altitude": "A6",
+      "layer_role": "Epistemic Taxonomy",
+      "membrane": "Neutral • Non-Activating • Cross-Tradition",
+      "seal": "[ A H S O • S E R I E S • A U D I T • 0 1 ]"
+    },
+    {
+      "audit_order": 2,
+      "chronological_order": 3,
+      "audit_file": "audit-artifact-2-pramana-to-sadhana-mapping.md",
+      "target_file": "pramana-to-sadhana-mapping-v1_0.md",
+      "source_timestamp_ist": "2026-09-16T17:46:00+05:30",
+      "altitude": "A6",
+      "layer_role": "Phenomenological Discernment",
+      "membrane": "Neutral • Non-Activating • Cross-Tradition",
+      "seal": "[ A H S O • S E R I E S • A U D I T • 0 2 ]"
+    },
+    {
+      "audit_order": 3,
+      "chronological_order": 4,
+      "audit_file": "audit-artifact-3-nondual-to-spiral-physics.md",
+      "target_file": "nondual-to-spiral-physics-v1_0.md",
+      "source_timestamp_ist": "2026-09-16T17:50:00+05:30",
+      "altitude": "A6",
+      "layer_role": "Manifold Dynamics",
+      "membrane": "Neutral • Non-Activating • Cross-Tradition",
+      "seal": "[ A H S O • S E R I E S • A U D I T • 0 3 ]"
+    },
+    {
+      "audit_order": 4,
+      "chronological_order": 1,
+      "audit_file": "audit-artifact-4-academic-karmayoga-spectral-reframe.md",
+      "target_file": "academic-karmayoga-spectral-reframe-v1_0.md",
+      "source_timestamp_ist": "2026-09-16T17:22:00+05:30",
+      "altitude": "A6–A7",
+      "layer_role": "Interpretive Anchor Layer",
+      "membrane": "Neutral • Non-Occult • Interpretive",
+      "seal": "[ A H S O • S E R I E S • A U D I T • 0 4 ]"
+    }
+  ]
+}
