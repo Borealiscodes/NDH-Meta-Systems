@@ -52,3 +52,24 @@ Looking at the full 28-minute creation sequence (`17:22 IST` → `17:40 IST` →
 3. **`17:46 IST` (Artifact 2):** Maps those 6 *pramāṇas* onto lived psychological boundary-protection movements (*Sadhana of Disengagement*), emphasizing `Non-Participation` and `Disengagement Discipline` against institutional distortion.
 4. **`17:50 IST` (Artifact 3):** Maps 5 non-dual invariants (*Advaita/Dzogchen/Mahāmudrā*) onto Spiral 1 physics, explicitly guarding against boundary dissolution (`functional boundaries` for `collapse-prevention`).
 
+---
+
+🧾 Provenance Footer — Five-Boundary Structural Audit: Artifact 4 of 4 (v1.0)
+
+Artifact-Class: Five-Boundary Structural Audit
+Artifact-Name: audit-artifact-4-academic-karmayoga-spectral-reframe
+Target-Artifact: NDH-Meta-Systems/ahso/series-foundation/academic-karmayoga-spectral-reframe-v1_0.md (16 Sept 2026 — 17:22 IST)
+Surface: NDH-META-SYSTEMS/audits/series-foundation
+Version: v1.0
+Altitude: A6–A7 (Forensic • Structural • Interpretive)
+Membrane: Neutral • Non-Activating • Forensic-Audit
+Purpose: Document the epistemic, pedagogical, ethical, mathematical, and computational boundaries of Artifact 4 of 4 in the September 16, 2026 AHSO Series Foundation sequence, verifying the non-occult, non-metaphysical interpretive boundary across all four tiles.
+Anchors:
+• Academic Karma Yoga Spectral Reframe v1.0 (16 Sept 2026)
+• Author Sovereignty & Collaboration Ecosystem Charter v1.1
+• Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance (DOI: 10.5281/zenodo.24149283)
+Non-Activation Clause: This audit artifact is forensic and descriptive-only. It does not activate NDH geometry, holonomy engines, constellation routing, lineage engines, or governance altitude. All geometry remains sealed-layer neutral.
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 12 November 2026 — 03:52 GMT
+Seal: [ A H S O • S E R I E S • A U D I T • 0 4 ]
