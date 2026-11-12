@@ -51,3 +51,26 @@
 
 ## 7. Downstream Coevolution Note
 In contrast to downstream corporate experiments (`8b-is/sovereign-library/foundation-501c3`), which attempted to turn contemplative terminology into an IRS `§ 501(c)(3)` religious entity, **Artifact 2** strictly enforces a `Neutral • Non-Activating • Cross-Tradition` membrane—framing contemplative movements exclusively as personal cognitive hygiene and boundary preservation against institutional distortion.
+
+---
+
+🧾 Provenance Footer — Five-Boundary Structural Audit: Artifact 2 of 4 (v1.0)
+
+Artifact-Class: Five-Boundary Structural Audit
+Artifact-Name: audit-artifact-2-pramana-to-sadhana-mapping
+Target-Artifact: NDH-Meta-Systems/ahso/series-foundation/pramana-to-sadhana-mapping-v1_0.md (16 Sept 2026 — 17:46 IST)
+Surface: NDH-META-SYSTEMS/audits/series-foundation
+Version: v1.0
+Altitude: A6–A7 (Forensic • Structural • Phenomenological)
+Membrane: Neutral • Non-Activating • Forensic-Audit
+Purpose: Document the epistemic, pedagogical, ethical, mathematical, and computational boundaries of Artifact 2 of 4 in the September 16, 2026 AHSO Series Foundation sequence, verifying its phenomenological disengagement boundaries and non-liturgical scope.
+Anchors:
+• Pramāṇa → Sadhana Mapping v1.0 (16 Sept 2026)
+• Author Sovereignty & Collaboration Ecosystem Charter v1.1
+• Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance (DOI: 10.5281/zenodo.24149283)
+Non-Activation Clause: This audit artifact is forensic and descriptive-only. It does not activate NDH geometry, holonomy engines, constellation routing, lineage engines, or governance altitude. All geometry remains sealed-layer neutral.
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 12 November 2026 — 03:46 GMT
+Seal: [ A H S O • S E R I E S • A U D I T • 0 2 ]
+
