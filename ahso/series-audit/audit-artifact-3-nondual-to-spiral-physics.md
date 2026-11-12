@@ -44,3 +44,23 @@
 ## Forensic Coevolution Note
 * **Upstream Design (`16 Sept 2026`):** Brings together *Dzogchen* / *Mahāmudrā* non-dual invariants, soft manifold geometry, and lineage continuity inside a strictly `Neutral • Non-Activating • Cross-Tradition` membrane—explicitly defining boundaries as functional safeguards for `collapse-prevention` and `self-integrity`.
 * **Downstream Divergence (`8b-is`):** Later manuscripts in *Sovereign Library* and `foundation-501c3` adopted *Dzogchen Rigpa*, *Madhyamaka* non-duality, and projection terminology while stripping away the `Non-Activation Clause` and functional boundary guardrails, repurposing descriptive cognitive-manifold tiles into a religious corporate charter.
+
+🧾 Provenance Footer — Five-Boundary Structural Audit: Artifact 3 of 4 (v1.0)
+
+Artifact-Class: Five-Boundary Structural Audit
+Artifact-Name: audit-artifact-3-nondual-to-spiral-physics
+Target-Artifact: NDH-Meta-Systems/ahso/series-foundation/nondual-to-spiral-physics-v1_0.md (16 Sept 2026 — 17:50 IST)
+Surface: NDH-META-SYSTEMS/audits/series-foundation
+Version: v1.0
+Altitude: A6–A7 (Forensic • Structural • Geometric)
+Membrane: Neutral • Non-Activating • Forensic-Audit
+Purpose: Document the epistemic, pedagogical, ethical, mathematical, and computational boundaries of Artifact 3 of 4 in the September 16, 2026 AHSO Series Foundation sequence, verifying its functional boundary guardrails against collapse and spiritual bypassing.
+Anchors:
+• Non-Dual → Spiral Physics Mapping v1.0 (16 Sept 2026)
+• Author Sovereignty & Collaboration Ecosystem Charter v1.1
+• Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance (DOI: 10.5281/zenodo.24149283)
+Non-Activation Clause: This audit artifact is forensic and descriptive-only. It does not activate NDH geometry, holonomy engines, constellation routing, lineage engines, or governance altitude. All geometry remains sealed-layer neutral.
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 12 November 2026 — 03:50 GMT
+Seal: [ A H S O • S E R I E S • A U D I T • 0 3 ]
