@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "index_id": "ahso-root-master-audit-index",
+  "surface": "NDH-META-SYSTEMS/audits",
+  "generated_utc": "2026-11-13T08:56:16Z",
+  "maintainer": { "name": "Borealis S. Hedling", "location": "Dublin, Ireland" },
+  "canonical_doi": "https://doi.org",
+  "cryptographic_anchor": {
+    "algorithm": "Ed25519",
+    "public_key_fingerprint": "SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg",
+    "allowed_signers": "manifest/allowed_signers"
+  },
+  "series": [
+    {
+      "series_number": 1,
+      "index_id": "ahso-series-foundation-audit-index",
+      "path": "ahso/series-audit/Index.json",
+      "sha256": "658905e16cc649b49b0ca9ad5aaf87c5fcb7f624b0dae588d30a4a39f970bf45",
+      "sig": "ahso/series-audit/Index.json.sig"
+    },
+    {
+      "series_number": 2,
+      "index_id": "ahso-constellation-lineage-audit-index",
+      "path": "audits/constellation-lineage/index.json",
+      "sha256": "9a0bba579844dbb53a1898f55e616919d5dc4063d2b97d0c81ed3d5eb84cd369",
+      "sig": "audits/constellation-lineage/index.json.sig"
+    }
+  ]
+}
