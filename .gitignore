@@ -1,0 +1,14 @@
+# Cryptographic private keys (allow .pub and .sig)
+*id_ed25519*
+*id_rsa*
+*.pem
+*.key
+!*id_ed25519*.pub
+!*.sig
+
+# Editor & OS temporary files
+*.swp
+*.swo
+*~
+*.tmp
+.DS_Store
