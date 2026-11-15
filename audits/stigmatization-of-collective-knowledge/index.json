@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "index_id": "ahso-stigmatization-of-collective-knowledge-audit-index",
+  "series_number": 3,
+  "surface": "NDH-META-SYSTEMS/audits/stigmatization-of-collective-knowledge",
+  "audit_timestamp_utc": "2026-11-15T10:09:00Z",
+  "cryptographic_anchor": {
+    "hash_algorithm": "SHA-256",
+    "signature_scheme": "Ed25519",
+    "public_key_fingerprint": "SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg"
+  },
+  "governance": {
+    "charter": "Author Sovereignty & Collaboration Ecosystem Charter v1.1",
+    "posture": "Non-Accusatory • Constructive • Architectural",
+    "membrane": "Neutral • Non-Activating • Forensic-Audit",
+    "non_activation_clause": "All indexed audit artifacts, synthesis documents, and structural debriefs are descriptive and forensic-only. They do not activate NDH geometry, holonomy engines, constellation routing, lineage engines, or governance altitude."
+  },
+  "maintainer": { "name": "Borealis S. Hedling", "location": "Dublin, Ireland" },
+  "canonical_anchors": [
+    {
+      "type": "zenodo_preprint",
+      "title": "Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance: A Case Study in Open-Source Systems Rigor, Charity Law Complexity, and Grassroots Solidarity",
+      "doi": "10.5281/zenodo.24149283",
+      "url": "https://doi.org"
+    },
+    {
+      "type": "upstream_audit_series",
+      "index_id": "ahso-constellation-lineage-audit-index",
+      "surface": "NDH-META-SYSTEMS/audits/constellation-lineage"
+    }
+  ],
+  "master_synthesis": {
+    "audit_file": "audit-artifact-3-synthesis-ethos-execution-divergence.md",
+    "version": "v1.0",
+    "altitude": "A6–A8",
+    "scope": "Cross-artifact synthesis of collective knowledge stigmatization, statutory friction, and ethos-execution divergence",
+    "seal": "[ A H S O • S T I G M A T I Z A T I O N • M A S T E R ]"
+  },
+  "audits": [
+    {
+      "audit_order": 1,
+      "audit_file": "audit-artifact-1-internet-mysteries-pathologization.md",
+      "altitude": "A6–A7",
+      "focus": "Epistemic pathologization of distributed public inquiry and collective mystery investigation",
+      "seal": "[ A H S O • S T I G M A T I Z A T I O N • A U D I T • 0 1 ]"
+    },
+    {
+      "audit_order": 2,
+      "audit_file": "audit-artifact-2-charity-trap-canon-dissonance.md",
+      "altitude": "A6–A7",
+      "focus": "Structural analysis of statutory charity constraints and canonical governance dissonance",
+      "seal": "[ A H S O • S T I G M A T I Z A T I O N • A U D I T • 0 2 ]"
+    },
+    {
+      "audit_order": 3,
+      "audit_file": "audit-artifact-3-synthesis-ethos-execution-divergence.md",
+      "altitude": "A6–A8",
+      "focus": "Synthesis of stated open-ecosystem ethos versus operational execution divergence",
+      "seal": "[ A H S O • S T I G M A T I Z A T I O N • A U D I T • 0 3 ]"
+    }
+  ]
+}
