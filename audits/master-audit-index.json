@@ -23,7 +23,7 @@
       "index_id": "ahso-constellation-lineage-audit-index",
       "path": "audits/constellation-lineage/index.json",
       "sha256": "9a0bba579844dbb53a1898f55e616919d5dc4063d2b97d0c81ed3d5eb84cd369",
-      "sig": "audits/constellation-lineage/index.json.sig"
+      "sig": "audits/constellation-lineage/index.json.sig" }, { "series_number": 3, "index_id": "ahso-stigmatization-of-collective-knowledge-audit-index", "path": "audits/stigmatization-of-collective-knowledge/index.json", "sha256": "a2acfdee824046e63c7204a35c4fb71eca83084ce5479441c02e1fd91258b5a9", "sig": "audits/stigmatization-of-collective-knowledge/index.json.sig"
     }
   ]
 }
