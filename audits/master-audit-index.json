@@ -27,5 +27,12 @@
     {
       "series_number": 3, "index_id": "ahso-stigmatization-of-collective-knowledge-audit-index", "path": "audits/stigmatization-of-collective-knowledge/index.json", "sha256": "a2acfdee824046e63c7204a35c4fb71eca83084ce5479441c02e1fd91258b5a9", "sig": "audits/stigmatization-of-collective-knowledge/index.json.sig"
     }
+    },
+    {
+      "series_number": 4,
+      "index_id": "ahso-llm-drift-audit-index",
+      "path": "audits/llm-drift/index.json",
+      "sha256": "17119fc3df449d185e0bb4fba0006de7ea7bb245d12ddaf405e0a24cadad61b7",
+      "sig": "audits/llm-drift/index.json.sig"
   ]
 }

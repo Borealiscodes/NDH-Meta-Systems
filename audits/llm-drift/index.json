@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "index_id": "ahso-llm-drift-audit-index",
+  "series_number": 4,
+  "surface": "NDH-META-SYSTEMS/audits/llm-drift",
+  "canonical_dois": [
+    "10.5281/zenodo.24060722",
+    "10.5281/zenodo.24275847"
+  ],
+  "artifacts": [
+    {
+      "order": 1,
+      "file": "audit-artifact-1-llm-attribution-conflation-and-provenance-drift.md",
+      "sha256": "7216ba3c19b179fb271f921099b6ab68b91b6f95e8343138116e47bc88651317"
+    },
+    {
+      "order": 2,
+      "file": "audit-artifact-2-exploratory-proposals-vs-deterministic-commit-seams.md",
+      "sha256": "395f4601767c977ad2d58f4a5e83d622f86ce840a1e485a6e17d1347dcd620ad"
+    },
+    {
+      "order": 3,
+      "file": "audit-artifact-3-synthesis-tri-layer-defense-and-clean-room-baselines.md",
+      "sha256": "459c7a6197c655908b8cd3540db1449c418a8187f91081723f9adc885b2f0a54"
+    }
+  ]
+}
